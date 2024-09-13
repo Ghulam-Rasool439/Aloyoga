@@ -1190,14 +1190,14 @@ li {
     margin-top: 29px;
   }
   .s6-section-img {
-    width: 50%;
+    width: 75%;
   }
   .product {
     height: 16vh;
   }
   .s7-img {
     width: 22%;
-    height: 36vh;
+    height: 18vh;
   }
   .foter-width {
     width: 28%;
@@ -1213,5 +1213,41 @@ li {
 
   .navbar-content {
     line-height: 26px;
+  }
+  .s7-text-box h3 {
+    font-size: 0.7rem;
+  }
+  .s7-text-box p {
+    font-size: 0.6rem;
+  }
+  .s7-text-box span {
+    font-size: 0.6rem;
+  }
+  .s7-text-box-1 h3 {
+    font-size: 0.7rem;
+  }
+  .s7-text-box-1 p {
+    font-size: 0.6rem;
+  }
+  .s7-text-box-1 span {
+    font-size: 0.6rem;
+  }
+  .s7-text-box-2 h3 {
+    font-size: 0.7rem;
+  }
+  .s7-text-box-2 p {
+    font-size: 0.6rem;
+  }
+  .s7-text-box-2 span {
+    font-size: 0.6rem;
+  }
+  .s7-text-box-3 h3 {
+    font-size: 0.7rem;
+  }
+  .s7-text-box-3 p {
+    font-size: 0.6rem;
+  }
+  .s7-text-box-3 span {
+    font-size: 0.6rem;
   }
 }
